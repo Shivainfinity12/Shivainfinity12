@@ -14,6 +14,9 @@
 <a href="https://github.com/Shivainfinity12?tab=followers">
 <img src="https://img.shields.io/github/followers/Shivainfinity12?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
+<a href="https://github.com/Shivainfinity12?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-20-0ea5e9?style=for-the-badge&logo=github" alt="Projects" />
+</a>
 
 </div>
 
@@ -132,28 +135,21 @@ A full-stack note-taking application demonstrating CRUD workflows, API integrati
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Shivainfinity12?tab=overview">
+    <img src="https://img.shields.io/github/commit-activity/y/Shivainfinity12/Shivainfinity12?style=for-the-badge&label=Yearly%20Commits" alt="Yearly commits" />
+  </a>
+  <a href="https://github.com/Shivainfinity12?tab=repositories">
+    <img src="https://img.shields.io/github/last-commit/Shivainfinity12/Shivainfinity12?style=for-the-badge&label=Last%20Profile%20Update" alt="Last profile update" />
+  </a>
+  <a href="https://github.com/Shivainfinity12?tab=stars">
+    <img src="https://img.shields.io/github/stars/Shivainfinity12?style=for-the-badge&label=Stars" alt="GitHub stars" />
+  </a>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivainfinity12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivainfinity12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Shivainfinity12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivainfinity12&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
-
-</div>
+I’m continuously learning, building and shipping. I care more about **meaningful projects and consistent progress** than artificially filling a contribution graph.
 
 ---
 
