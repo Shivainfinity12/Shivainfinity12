@@ -115,7 +115,7 @@ An AI-powered conversational and research assistant exploring **LLMs, RAG, embed
 
 **Python • LangChain • Hugging Face • Transformers • FAISS • Streamlit • FastAPI**
 
-### 💬 [Full-Stack Chat App](https://github.com/Shivainfinity12/fullstack-chat-app)
+### 💬 [Full-Stack Chat App](https://github.com/Shivainfinity12/Chit-Chat)
 
 A real-time messaging application built with a modern frontend/backend architecture and live communication.
 
