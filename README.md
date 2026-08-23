@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/github/followers/Shivainfinity12?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Shivainfinity12?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-20-0ea5e9?style=for-the-badge&logo=github" alt="Projects" />
+<img src="https://img.shields.io/badge/Projects-21-0ea5e9?style=for-the-badge&logo=github" alt="Projects" />
 </a>
 
 </div>
