@@ -44,27 +44,7 @@ Currently, I'm focused on understanding how modern AI systems work under the hoo
 - 🧩 LLM applications, RAG & AI agents
 - 🌐 Full-stack products with React, Node.js & Python
 - 🚀 Startup ideas and developer tools
-- 🌍 Open-source experiments and practical AI systems
-
----
-
-## 🧠 Current Focus
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Transformers & LLMs
-        ↓
-RAG + AI Agents
-        ↓
-Production AI Systems
-        ↓
-AI-powered Products 🚀
-```
+  
 
 ---
 
@@ -72,9 +52,6 @@ AI-powered Products 🚀
 
 ### 🤖 AI / ML
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI and ML technologies" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
