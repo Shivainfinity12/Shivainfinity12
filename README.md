@@ -73,13 +73,13 @@ Currently, I'm focused on understanding how modern AI systems work under the hoo
 ### 🌐 Full-Stack Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,fastapi&theme=dark" alt="Full-stack technologies" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,fastapi&theme=dark" alt="Full-stack technologies" />
 </p>
 
 ### ⚙️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Developer tools" />
 </p>
 
 ---
